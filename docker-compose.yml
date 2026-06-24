@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  ml-engine:
+    build: ./ml-engine
+    ports:
+      - "8000:8000"
+    volumes:
+      - ml-data:/app/data
+    restart: unless-stopped
+
+  backend:
+    build: ./backend
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=development
+      - PORT=3001
+      - JWT_SECRET=dev-secret-change-in-production
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/anibrain
+      - ML_ENGINE_URL=http://ml-engine:8000
+      - CORS_ORIGIN=http://localhost:3000
+    depends_on:
+      - ml-engine
+      - db
+    restart: unless-stopped
+
+  db:
+    image: postgres:16-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: anibrain
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  ml-data:
+  pgdata:

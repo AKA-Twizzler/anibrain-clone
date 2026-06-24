@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: anibrain-backend
+    env: node
+    repo: https://github.com/AKA-Twizzler/anibrain-clone
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3001
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DATABASE_URL
+        sync: false
+      - key: ML_ENGINE_URL
+        value: https://anibrain-ml.onrender.com
+      - key: CORS_ORIGIN
+        value: https://anibrain-clone.vercel.app
+
+  - type: web
+    name: anibrain-ml
+    env: docker
+    repo: https://github.com/AKA-Twizzler/anibrain-clone
+    rootDir: ml-engine
+    dockerfilePath: Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 8000

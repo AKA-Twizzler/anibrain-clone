@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "synopsis": "In a world where humanity lives inside cities surrounded by enormous walls due to the emergence of giant humanoid Titans, Eren Yeager, his adoptive sister Mikasa Ackerman, and their friend Armin Arlert join the military to fight against the Titans after their hometown is destroyed. Eren later discovers he has the ability to transform into a Titan, leading to revelations about the true nature of the Titans and the dark history of their world.",
+    "genres": ["Action", "Drama", "Fantasy", "Military", "Mystery", "Shounen", "Survival"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "synopsis": "After losing their mother, brothers Edward and Alphonse Elric attempt a forbidden alchemy ritual to bring her back. The ritual goes horribly wrong, consuming Edward's leg and Alphonse's entire body. Edward sacrifices his arm to bind Alphonse's soul to a suit of armor. They embark on a journey to find the Philosopher's Stone to restore their bodies, uncovering a vast military conspiracy and the dark secrets of alchemy.",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy", "Military", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Death Note",
+    "synopsis": "High school prodigy Light Yagami stumbles upon a supernatural notebook that allows him to kill anyone whose name he writes in it while picturing their face. He decides to use the Death Note to rid the world of criminals, creating a utopia under his rule as the god of this new world. The world's greatest detective, known only as L, begins a cat-and-mouse game to uncover Light's identity.",
+    "genres": ["Mystery", "Psychological", "Supernatural", "Thriller", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Steins;Gate",
+    "synopsis": "Self-proclaimed mad scientist Rintarou Okabe and his friends accidentally discover a way to send text messages to the past through a modified microwave. As they experiment with time travel, they attract the attention of a sinister organization. Okabe must navigate the consequences of altering the past, experiencing the pain of watching loved ones die as he leaps through time trying to save everyone.",
+    "genres": ["Sci-Fi", "Thriller", "Psychological", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cowboy Bebop",
+    "synopsis": "In the year 2071, the Solar System is colonized and bounty hunters known as cowboys roam the planets. Spike Spiegel, a former member of a criminal syndicate, teams up with ex-cop Jet Black, the mysterious Faye Valentine, the child prodigy Edward, and a clever corgi named Ein aboard the spaceship Bebop. Together they hunt criminals across the stars while each tries to escape their haunted past.",
+    "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Space"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Neon Genesis Evangelion",
+    "synopsis": "In a post-apocalyptic world, teenager Shinji Ikari is recruited by the paramilitary organization NERV to pilot a giant bio-machine mecha called an Evangelion to fight monstrous beings known as Angels. As he and other troubled child pilots face increasingly powerful Angels, they must also confront their own psychological traumas and the mysterious plans of his father and the shadowy organization Seele.",
+    "genres": ["Action", "Mecha", "Psychological", "Sci-Fi", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Spirited Away",
+    "synopsis": "Ten-year-old Chihiro and her parents stumble upon an abandoned amusement park while moving to a new neighborhood. After her parents are transformed into pigs by the witch Yubaba, Chihiro must work in the spirit world's bathhouse to free them. She takes on the name Sen and learns to navigate a world of gods, spirits, and strange creatures while discovering her own courage and resilience.",
+    "genres": ["Adventure", "Fantasy", "Supernatural", "Family"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Hunter x Hunter (2011)",
+    "synopsis": "Young Gon Freecss discovers that his father, whom he believed was dead, is actually a legendary Hunter—a licensed adventurer who undertakes dangerous quests. Determined to find him, Gon takes the rigorous Hunter Exam, making friends with Kurapika, Leorio, and Killua along the way. Their journey takes them through deadly tournaments, crime syndicates, and the dark Chimera Ant arc that tests their limits.",
+    "genres": ["Action", "Adventure", "Fantasy", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/33657.jpg"
+  },
+  {
+    "id": 9,
+    "title": "One Punch Man",
+    "synopsis": "Saitama is a hero who can defeat any opponent with a single punch. Bored by his overwhelming strength, he searches for a worthy opponent who can challenge him. He befriends the cyborg Genos and joins the Hero Association, where he faces increasingly bizarre monsters and villains while remaining unrecognized for his incredible power, all while longing for the thrill of a real fight.",
+    "genres": ["Action", "Comedy", "Parody", "Supernatural", "Sci-Fi"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Your Lie in April",
+    "synopsis": "Kousei Arima was a piano prodigy until his mother's death traumatized him, making him unable to hear the piano's sound. He meets the free-spirited violinist Kaori Miyazono, who drags him back into the music world. Through competitions and performances, Kousei slowly confronts his trauma while Kaori hides a devastating secret about her own health that will change everything.",
+    "genres": ["Drama", "Music", "Romance", "Slice of Life"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67177.jpg"
+  },
+  {
+    "id": 11,
+    "title": "One Piece",
+    "synopsis": "Monkey D. Luffy, a boy whose body gains rubber-like properties after eating a Devil Fruit, sets out to become the Pirate King by finding the legendary treasure One Piece. He assembles a diverse crew of pirates, each with their own dreams, and they sail the Grand Line facing powerful enemies, discovering ancient secrets, and fighting against the World Government's oppression.",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Naruto Shippuden",
+    "synopsis": "Two and a half years after leaving to train with Jiraiya, Naruto Uzumaki returns to the Hidden Leaf Village as a more powerful ninja. He reunites with his friends and continues his quest to rescue Sasuke Uchiha while facing the Akatsuki, a criminal organization hunting the tailed beasts. Naruto must master his inner Nine-Tailed Fox powers and confront the cycle of hatred.",
+    "genres": ["Action", "Adventure", "Martial Arts", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/17407.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "synopsis": "After his family is slaughtered and his sister Nezuko is turned into a demon, Tanjiro Kamado joins the Demon Slayer Corps to find a cure for his sister and avenge his family. He trains in the deadly art of breathing techniques and water breathing, eventually discovering his own unique Sun Breathing style. Tanjiro and his friends battle powerful demons led by the immortal Muzan Kibutsuji.",
+    "genres": ["Action", "Supernatural", "Fantasy", "Historical", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Code Geass: Lelouch of the Rebellion",
+    "synopsis": "Lelouch vi Britannia, an exiled prince, obtains the power of Geass from a mysterious girl named C.C., allowing him to command anyone to obey his orders. Disguised as the masked revolutionary Zero, he leads a rebellion against the Holy Britannian Empire that conquered Japan. Lelouch must navigate military strategy, political intrigue, and moral dilemmas to achieve his goals.",
+    "genres": ["Action", "Mecha", "Military", "Psychological", "Supernatural"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/50327.jpg"
+  },
+  {
+    "id": 15,
+    "title": "My Hero Academia",
+    "synopsis": "In a world where nearly everyone has superpowers known as Quirks, Izuku Midoriya was born without one. After a fateful encounter with the world's greatest hero All Might, he inherits the legendary One For All quirk. Izuku enrolls at UA High School, training alongside other aspiring heroes while villains led by the terrifying All For One scheme to destroy hero society.",
+    "genres": ["Action", "Comedy", "School", "Superhero", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Death Parade",
+    "synopsis": "After death, humans are sent to mysterious bars where arbiters judge their souls through deadly games. Decim, a stoic bartender and arbiter, oversees these judgment games that reveal the deepest truths of human nature. A mysterious black-haired woman arrives as his assistant, questioning his emotionless approach as they witness the raw emotions of those whose fates hang in the balance.",
+    "genres": ["Drama", "Mystery", "Psychological", "Supernatural", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/72943.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Violet Evergarden",
+    "synopsis": "Violet Evergarden, a former child soldier, begins working at a postal company as an Auto Memory Doll—someone who writes letters for others. Having grown up on the battlefield without understanding emotions, she struggles to comprehend the feelings she must convey. Through each client's letter, Violet learns about love, loss, and what it means to be human, seeking to understand her former commander's final words.",
+    "genres": ["Drama", "Fantasy", "Slice of Life", "Romance"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Psycho-Pass",
+    "synopsis": "In a dystopian future where a system called Sibyl constantly measures citizens' mental states and criminal potential, Akane Tsunemori joins the Criminal Investigation Division as a new inspector. Paired with veteran enforcer Shinya Kogami, she investigates heinous crimes. They soon discover that the perfect justice system has flaws, and a master criminal named Shogo Makishima threatens to expose them all.",
+    "genres": ["Action", "Psychological", "Sci-Fi", "Thriller", "Police"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/35749.jpg"
+  },
+  {
+    "id": 19,
+    "title": "A Silent Voice",
+    "synopsis": "Shouya Ishida bullies deaf transfer student Shouko Nishimiya in elementary school so severely that she transfers out. Years later, wracked with guilt and social isolation, Shouya seeks redemption. He learns sign language and reconnects with Shouko, hoping to make amends for his past cruelty. Together they navigate the complexities of bullying, disability, forgiveness, and the possibility of friendship and love.",
+    "genres": ["Drama", "Romance", "School", "Slice of Life"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/87463.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Made in Abyss",
+    "synopsis": "The Abyss is a massive, mysterious chasm filled with strange creatures and valuable artifacts. Riko, a young orphan girl who dreams of becoming a legendary White Whistle delver like her mother, discovers a robotic boy named Reg who has no memory of his past. Together they descend into the Abyss, facing increasingly dangerous creatures and the curse that threatens to destroy them.",
+    "genres": ["Adventure", "Fantasy", "Mystery", "Sci-Fi"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/76252.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Re:Zero - Starting Life in Another World",
+    "synopsis": "Subaru Natsuki is suddenly transported from a convenience store to a fantasy world. He soon discovers he has the ability to return by death, being sent back to a 'checkpoint' whenever he dies. He must use this traumatic power to save those he cares about, especially Emilia, the half-elf he falls in love with, while being hunted by unseen enemies and enduring unimaginable suffering.",
+    "genres": ["Drama", "Fantasy", "Psychological", "Thriller", "Isekai"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1522/128038.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Jujutsu Kaisen",
+    "synopsis": "High school student Yuji Itadori swallows a cursed finger belonging to Ryomen Sukuna, the King of Curses, to save his friends. He becomes a vessel for Sukuna and joins the Tokyo Metropolitan Magic Technical College to learn Jujutsu Sorcery. Alongside his classmates Megumi Fushiguro and Nobara Kugisaki, and mentor Satoru Gojo, Yuji battles cursed spirits and uncovers a conspiracy within the jujutsu world.",
+    "genres": ["Action", "Fantasy", "Supernatural", "School", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Monster",
+    "synopsis": "Dr. Kenzo Tenma is a brilliant Japanese neurosurgeon working in Germany. He makes a fateful decision to save a young boy over a prominent politician, a choice that costs him his career. Years later, he discovers the boy, Johan Liebert, has grown into a charismatic sociopath orchestrating horrific crimes across Germany. Tenma embarks on a journey to stop the monster he once saved.",
+    "genres": ["Drama", "Mystery", "Psychological", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/18793.jpg"
+  },
+  {
+    "id": 24,
+    "title": "March Comes in Like a Lion",
+    "synopsis": "Rei Kiriyama is a 17-year-old professional shogi player living alone in Tokyo. Despite his prodigious talent, he struggles with depression, loneliness, and a difficult family past. Through his growing connection with the warm-hearted Kawamoto sisters—Akari, Hinata, and Momo—who live nearby, Rei slowly learns to open his heart and find meaning beyond the shogi board.",
+    "genres": ["Drama", "Slice of Life", "Psychological"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/82866.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Fate/Zero",
+    "synopsis": "Seven mages summon legendary heroes from across history to fight in the Holy Grail War, a deadly battle royale where the winner's wish is granted by the Holy Grail. The story follows Kiritsugu Emiya, a pragmatic and ruthless mage killer, as he fights alongside his servant Saber. The war reveals the dark nature of ambition, idealism, and the true cost of wishes.",
+    "genres": ["Action", "Fantasy", "Supernatural", "Drama", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/73249.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Mob Psycho 100",
+    "synopsis": "Shigeo Kageyama, nicknamed Mob, is a middle schooler with immense psychic powers. He works for the fraudulent psychic Reigen while trying to live a normal life and earn the affection of his crush, Tsubomi. When Mob's emotions reach 100%, his powers explode uncontrollably. He faces dangerous spirits, rival psychics, and a mysterious organization while learning the value of human connection.",
+    "genres": ["Action", "Comedy", "Supernatural", "Slice of Life", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/80095.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Parasyte: The Maxim",
+    "synopsis": "Aliens called Parasytes descend to Earth, taking over human brains by entering through their ears or noses. High school student Shinichi Izumi narrowly avoids being taken over when the parasyte Migi only manages to take over his right hand. Now bonded with Migi, Shinichi must navigate a world where humans become hosts to monsters while maintaining his own humanity.",
+    "genres": ["Action", "Horror", "Psychological", "Sci-Fi", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/73178.jpg"
+  },
+  {
+    "id": 28,
+    "title": "The Promised Neverland",
+    "synopsis": "Three brilliant children—Emma, Norman, and Ray—live in a seemingly perfect orphanage. They discover the horrifying truth: the children are being raised as food for demons. With their sharp wits and unbreakable bond, the trio must orchestrate a daring escape from their home, outsmarting their demon caretaker Isabella and navigating a dangerous world beyond the forest.",
+    "genres": ["Mystery", "Psychological", "Thriller", "Fantasy", "Horror"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Haikyuu!!",
+    "synopsis": "After seeing a volleyball match featuring the legendary Small Giant, Shouyou Hinata develops a passion for the sport. Despite his short stature, he joins his middle school team and later attends Karasuno High School, where he forms an unlikely partnership with the talented but grumpy setter Tobio Kageyama. Together they lead Karasuno's team in their quest to reach the national tournament.",
+    "genres": ["Sports", "Comedy", "Drama", "School", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Vinland Saga",
+    "synopsis": "Young Thorfinn witnesses his father Thors's murder at the hands of a band of mercenaries led by the cunning Askeladd. He joins Askeladd's crew, vowing to grow strong enough to kill him in an honorable duel. Set against the backdrop of Viking invasions of England, Thorfinn's quest for vengeance takes him through battlefields and political conspiracies, eventually evolving into a search for true peace.",
+    "genres": ["Action", "Adventure", "Drama", "Historical", "Seinen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1796/91065.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Sword Art Online",
+    "synopsis": "When the first full-immersion virtual reality MMORPG Sword Art Online launches, 10,000 players log in to find themselves trapped, unable to log out. Game designer Kayaba Akihiko announces that the only way to escape is to clear all 100 floors of the tower. If a player's avatar dies in the game, their real body dies too. Kirito, a solo player, must fight to survive and protect others.",
+    "genres": ["Action", "Adventure", "Fantasy", "Romance", "Sci-Fi", "Isekai"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Clannad: After Story",
+    "synopsis": "Tomoya Okazaki and Nagisa Furukawa's relationship deepens after high school as they face the challenges of adulthood, marriage, and parenthood. The story takes a devastating turn as they confront tragedy and loss. Tomoya must find strength he never knew he had as he navigates the depths of grief and the unbreakable bonds of family, discovering that happiness can exist even in sorrow.",
+    "genres": ["Drama", "Romance", "Slice of Life", "Supernatural"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/58389.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Tokyo Ghoul",
+    "synopsis": "Ken Kaneki, a shy college student, is attacked by a ghoul and survives after receiving a ghoul organ transplant. He becomes a half-human, half-ghoul hybrid who must consume human flesh to survive. As he struggles with his new identity, he gets pulled into the conflict between ghouls and the CCG, an organization dedicated to exterminating ghouls while hiding in plain sight among humans.",
+    "genres": ["Action", "Horror", "Psychological", "Supernatural", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/64449.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Dragon Ball Z",
+    "synopsis": "Goku, now an adult and a father, discovers he is a Saiyan, a powerful warrior race from outer space. He and his friends defend Earth against increasingly powerful foes, including the fearsome Vegeta, the tyrant Frieza, the time-traveling Cell, and the monstrous Majin Buu. Each battle pushes Goku to new heights of power through the Super Saiyan transformations and beyond.",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Martial Arts", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/47193.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Elfen Lied",
+    "synopsis": "A genetically mutated species known as Diclonius, distinguished by horn-like protrusions and invisible telekinetic vectors, threatens humanity. Lucy, a powerful Diclonius, escapes from a research facility and loses her memory after being shot. Found by two cousins, she begins living with them under the alias Nyu, but her violent and vengeful personality emerges when threatened.",
+    "genres": ["Action", "Drama", "Horror", "Psychological", "Romance", "Seinen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/10911.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Anohana: The Flower We Saw That Day",
+    "synopsis": "Five childhood friends drift apart after the tragic death of their friend Menma. Years later, the group's leader Jinta Yadomi, now a reclusive shut-in, begins seeing Menma's ghost. She asks him to fulfill her wish so she can pass on. Jinta must reunite their broken group, forcing each of them to confront their guilt, grief, and the secret they've carried since her death.",
+    "genres": ["Drama", "Slice of Life", "Supernatural"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/79656.jpg"
+  },
+  {
+    "id": 37,
+    "title": "One Outs",
+    "synopsis": "Pro baseball team the Lycaons are in financial trouble. Their star batter Hiromichi Kojima encounters a mysterious pitcher named Toua Tokuchi at an underground gambling game called One Outs. Tokuchi, a genius strategist who wins through psychological warfare, joins the team under a unique contract: he earns 5 million yen per out but loses 50 million per run he allows.",
+    "genres": ["Sports", "Psychological", "Seinen", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/14747.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Hellsing Ultimate",
+    "synopsis": "The Royal Order of Protestant Knights, known as Hellsing, fights against vampires and other supernatural threats that menace England. Led by Sir Integra Hellsing, their most powerful weapon is Alucard, an ancient and incredibly powerful vampire who serves the organization. They face a new threat when a faction of former Nazis unleashes an army of artificial vampires upon the world.",
+    "genres": ["Action", "Horror", "Supernatural", "Military", "Seinen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/21035.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Erased",
+    "synopsis": "Satoru Fujinuma has the mysterious ability he calls Revival, which sends him back in time moments before a life-threatening incident, giving him a chance to prevent it. When he is framed for his mother's murder, he is sent back eighteen years to elementary school. Satoru realizes the murder is connected to a series of childhood kidnappings and must prevent the tragedy before it happens.",
+    "genres": ["Mystery", "Psychological", "Supernatural", "Thriller", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/77957.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Kaguya-sama: Love Is War",
+    "synopsis": "At Shuchiin Academy, student council president Miyuki Shirogane and vice president Kaguya Shinomiya are brilliant students everyone admires. They are clearly in love with each other, but both are too proud to confess first, believing that confessing is a sign of weakness. They engage in elaborate psychological warfare, devising complex schemes to force the other to confess their feelings.",
+    "genres": ["Comedy", "Romance", "School", "Psychological"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1493/117229.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Serial Experiments Lain",
+    "synopsis": "When a classmate commits suicide, middle schooler Lain Iwakura receives an email from her, claiming she hasn't died but simply discarded her physical body to exist purely in the Wired, a global计算机网络. Lain delves deeper into the Wired, discovering that the boundary between the real world and the digital world is dissolving, and she holds the key to humanity's next evolution.",
+    "genres": ["Psychological", "Sci-Fi", "Mystery", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/19894.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Gurren Lagann",
+    "synopsis": "In a future where humanity lives in isolated underground villages, Simon and Kamina discover a giant robot head while digging tunnels. Kamina convinces Simon to use it to break through to the surface world, where they discover a wasteland ruled by the Spiral King who forces humans underground. They form Team Dai-Gurren to fight back, evolving from scrappy rebels to galactic liberators.",
+    "genres": ["Action", "Adventure", "Comedy", "Mecha", "Sci-Fi"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Berserk (1997)",
+    "synopsis": "Guts, a lone mercenary with a massive sword, joins the Band of the Hawk led by the charismatic Griffith. Together they rise through the ranks of Midland's army, winning battle after battle. Guts develops deep bonds with his comrades, especially Griffith and Casca. But Griffith's ambition and his Crimson Behelit lead to the Eclipse, a night of unspeakable horror that changes their lives forever.",
+    "genres": ["Action", "Adventure", "Fantasy", "Horror", "Psychological", "Seinen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/15876.jpg"
+  },
+  {
+    "id": 44,
+    "title": "FLCL",
+    "synopsis": "Twelve-year-old Naota Nandaba lives a normal life in the dull city of Mabase until a reckless, guitar-wielding alien named Haruko Haruhara runs him over with her Vespa and hits him in the face with her guitar. From his forehead sprouts a giant robot, and suddenly Naota's world is turned upside down with robots, intergalactic conspiracies, and the confusing feelings of adolescence.",
+    "genres": ["Action", "Comedy", "Sci-Fi", "Psychological"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/13104.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Samurai Champloo",
+    "synopsis": "In an alternate Edo-period Japan fused with hip-hop culture, the hot-headed Mugen and the stoic Jin are two samurai with vastly different fighting styles. After being convicted for different crimes, they are freed by the quirky waitress Fuu, who hires them to find the samurai who smells of sunflowers. The unlikely trio travels across Japan, clashing with enemies and forming a deep bond.",
+    "genres": ["Action", "Adventure", "Comedy", "Historical", "Samurai"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/29182.jpg"
+  },
+  {
+    "id": 46,
+    "title": "The Tatami Galaxy",
+    "synopsis": "An unnamed third-year university student regrets his campus life and wishes he had joined a different club. He gets his wish, and the story resets as he relives his college years in different parallel universes, each time joining a different student group. Through these absurd and tragicomic adventures, he learns about missed opportunities, the nature of choice, and the importance of self-acceptance.",
+    "genres": ["Comedy", "Drama", "Psychological", "Romance"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/24660.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Great Teacher Onizuka",
+    "synopsis": "Eikichi Onizuka, a former gang leader and virgin at 22, decides to become a teacher for the wrong reasons: to meet cute high school girls. But when he lands a job at a school with a notorious problem class, his unconventional methods and genuine heart win over even the most troubled students. Onizuka uses his street smarts and bizarre solutions to tackle bullying, abuse, and despair.",
+    "genres": ["Comedy", "Drama", "School", "Slice of Life"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/20058.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Trigun",
+    "synopsis": "On the desert planet Gunsmoke, the legendary outlaw Vash the Stampede has a 60 billion double-dollar bounty on his head. But Vash is not the bloodthirsty criminal everyone believes—he's a pacifist who refuses to kill and has a mysterious past tied to the destruction of a city. Insurance agents Meryl and Milly follow him across the wasteland as he's pursued by assassins and bounty hunters.",
+    "genres": ["Action", "Adventure", "Comedy", "Sci-Fi", "Western"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/17979.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Ghost in the Shell: Stand Alone Complex",
+    "synopsis": "In 2030, cyborg Major Motoko Kusanagi leads Section 9, an elite counter-cyberterrorist unit of the Japanese government. They investigate a mysterious hacker known as the Laughing Man, whose seemingly random cyberbrain hacks reveal a vast conspiracy spanning corporations and government agencies. The team deals with political corruption, artificial intelligence, and philosophical questions of identity.",
+    "genres": ["Action", "Military", "Police", "Psychological", "Sci-Fi"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/21125.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Your Name",
+    "synopsis": "Mitsuha Miyamizu, a high school girl in a rural town who longs for the excitement of Tokyo, and Taki Tachibana, a high school boy in Tokyo, begin mysteriously swapping bodies. As they navigate each other's lives through notes and messages, they form a deep connection. They eventually discover a three-year time difference and a looming disaster that threatens their hometown.",
+    "genres": ["Drama", "Fantasy", "Romance", "Supernatural"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/87048.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Overlord",
+    "synopsis": "In the year 2138, popular DMMORPG YGGDRASIL is about to shut down. Player Momonga decides to stay logged in until the final moment. When the clock hits zero, he finds himself trapped in the game world as his skeletal lich avatar, with all NPCs coming to life as loyal followers. Now ruling the Great Tomb of Nazarick, Momonga seeks to understand this new world and conquer it.",
+    "genres": ["Action", "Fantasy", "Supernatural", "Isekai"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/83297.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Perfect Blue",
+    "synopsis": "Mima Kirigoe is a member of a pop idol group who decides to leave the group to pursue an acting career. As she transitions into serious roles, including a rape scene and a nude photoshoot, she begins to be stalked by an obsessive fan. Her reality begins to blur as she loses the ability to distinguish between her acting roles, the internet, and real life.",
+    "genres": ["Drama", "Horror", "Psychological", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/79108.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Assassination Classroom",
+    "synopsis": "The super-powered being who destroyed 70% of the moon, named Koro-sensei, becomes the homeroom teacher of Class 3-E at Kunugigaoka Middle School. He claims to want to destroy Earth by March of next year, but is too fast and powerful to kill by normal means. The government tasks the students with assassinating their teacher, offering a bounty for the one who succeeds. The students learn valuable lessons about life and growth.",
+    "genres": ["Action", "Comedy", "School", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75639.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Howl's Moving Castle",
+    "synopsis": "Sophie, a young hatmaker, is cursed by a witch to appear as an old woman. She encounters the wizard Howl, a handsome but vain young man who lives in a magical moving castle powered by a fire demon named Calcifer. Sophie joins him in his castle and becomes part of a magical adventure, breaking her curse and discovering Howl's secret as a war rages across their kingdom.",
+    "genres": ["Adventure", "Fantasy", "Romance", "Family"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75810.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Mushishi",
+    "synopsis": "Mushishi are ancient, primordial lifeforms that exist in the border between life and death. Ginko is a wandering Mushishi who travels across early 20th-century Japan investigating and alleviating problems caused by Mushi. Each encounter reveals a different aspect of the natural world and human condition, as Ginko helps people cope with phenomena they cannot understand while remaining a detached observer.",
+    "genres": ["Adventure", "Fantasy", "Mystery", "Slice of Life", "Supernatural"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/13156.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Odd Taxi",
+    "synopsis": "Walrus taxi driver Odokawa leads a seemingly mundane life in Tokyo, driving a variety of eccentric passengers around the city. His routine is disrupted when he gets entangled in the disappearance of a young girl, which connects to a network of criminals, corrupt cops, and a dangerous gang. This mystery told through anthropomorphic animals explores loneliness and human connections in modern society.",
+    "genres": ["Mystery", "Psychological", "Thriller", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Summer Time Rendering",
+    "synopsis": "After his childhood friend Ushio's death, Shinpei Ajiro returns to his hometown on Hitogashima Island for her funeral. He begins to suspect that her death was not an accident and discovers the island is plagued by mysterious shadows that can impersonate people. Shinpei gains the ability to loop back in time upon death, using this power to uncover the truth and protect his loved ones.",
+    "genres": ["Mystery", "Supernatural", "Thriller", "Psychological"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1046/116936.jpg"
+  },
+  {
+    "id": 58,
+    "title": "86 - Eighty-Six",
+    "synopsis": "The Republic of San Magnolia wages war against the Empire of Giad using unmanned drones, or so they claim. In reality, the drones are piloted by the Eighty-Six, an oppressed minority forced to fight in non-humanoid mechs called Juggernauts. Shin, the captain of a squadron, communicates with Lena, a handler from the Republic who treats them as human beings, creating a bond across a divide of prejudice.",
+    "genres": ["Action", "Drama", "Mecha", "Military", "Sci-Fi"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1127/114741.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Bocchi the Rock!",
+    "synopsis": "Hitori Gotoh, nicknamed Bocchi, is an extremely shy and socially anxious girl whose only outlet is playing guitar. She dreams of forming a band despite her crippling shyness. After being recruited as the guitarist for the band Kessoku Band, she must overcome her stage fright and connect with her bandmates Nijika, Ryo, and Ikuyo, all while navigating the ups and downs of high school rock music.",
+    "genres": ["Comedy", "Music", "Slice of Life", "School"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1448/127938.jpg"
+  },
+  {
+    "id": 60,
+    "title": "Chainsaw Man",
+    "synopsis": "Denji is a broke young man who works as a devil hunter alongside his dog/devil Pochita to pay off his yakuza debts. After being betrayed and killed, Pochita merges with Denji's heart, giving him the ability to transform parts of his body into chainsaws. He's recruited by the Public Safety Devil Hunters and faces increasingly dangerous devils while learning what it means to have a heart.",
+    "genres": ["Action", "Comedy", "Fantasy", "Horror", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+  }
+]

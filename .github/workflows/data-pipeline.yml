@@ -1,0 +1,75 @@
+name: Data Pipeline
+
+on:
+  schedule:
+    # Weekly: Monday 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      sample:
+        description: "Run in sample mode (5 pages only)"
+        type: boolean
+        default: false
+      force:
+        description: "Overwrite existing index files"
+        type: boolean
+        default: false
+      include_adult:
+        description: "Include adult/18+ content"
+        type: boolean
+        default: false
+
+env:
+  PIPELINE_DIR: data-pipeline
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: ${{ env.PIPELINE_DIR }}/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ env.PIPELINE_DIR }}/requirements.txt
+
+      - name: Run fetch step
+        run: |
+          ARGS=""
+          if [[ "${{ github.event.inputs.sample }}" == "true" ]]; then ARGS="$ARGS --sample"; fi
+          if [[ "${{ github.event.inputs.include_adult }}" == "true" ]]; then ARGS="$ARGS --include-adult"; fi
+          python ${{ env.PIPELINE_DIR }}/fetch_anilist.py $ARGS
+
+      - name: Run clean step
+        run: python ${{ env.PIPELINE_DIR }}/clean_data.py
+
+      - name: Run feature build step
+        run: python ${{ env.PIPELINE_DIR }}/build_features.py
+
+      - name: Run embedding generation step
+        run: python ${{ env.PIPELINE_DIR }}/generate_embeddings.py
+
+      - name: Run index build step
+        run: |
+          ARGS=""
+          if [[ "${{ github.event.inputs.force }}" == "true" ]]; then ARGS="$ARGS --force"; fi
+          python ${{ env.PIPELINE_DIR }}/build_index.py $ARGS
+
+      - name: Upload index and metadata artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: anibrain-indexes
+          path: |
+            ${{ env.PIPELINE_DIR }}/output/anime_index.faiss
+            ${{ env.PIPELINE_DIR }}/output/manga_index.faiss
+            ${{ env.PIPELINE_DIR }}/output/anime_metadata.json
+            ${{ env.PIPELINE_DIR }}/output/manga_metadata.json
+          retention-days: 30
+          if-no-files-found: warn
