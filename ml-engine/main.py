@@ -150,9 +150,11 @@ def search_index(query_emb: np.ndarray, top_k: int = 20) -> list[dict]:
         if idx == -1 or idx >= len(anime_list):
             continue
         anime = anime_list[idx]
-        # FAISS returns inner product (since embeddings are normalized, this = cosine similarity)
-        # Range: [-1, 1] -> map to [0, 100]
-        similarity = max(0.0, min(100.0, float(dist) * 100.0))
+        # IndexHNSWFlat returns squared L2 distances
+        # For normalized unit vectors: ||a-b||^2 = 2 - 2*cos(a,b)
+        # cosine_similarity = 1 - (squared_L2 / 2)
+        cosine_sim = max(-1.0, min(1.0, 1.0 - float(dist) / 2.0))
+        similarity = max(0.0, min(100.0, cosine_sim * 100.0))
         synopsis = anime.get("synopsis", "")
         if len(synopsis) > 300:
             synopsis = synopsis[:297] + "..."
